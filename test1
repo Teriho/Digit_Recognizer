@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Sep 13 15:02:06 2018
+
+@author: ericyang
+"""
+
+import matplotlib.pylab as pl
+import numpy as np
+x = [1,2,3,4,5]
+y = [1,2,3,4,5]
+z = [3,2,3,4,5]
+pl.plot(x,y,'+')
+#pl.hist(x,y)
